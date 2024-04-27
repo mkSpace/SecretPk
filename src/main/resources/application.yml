@@ -1,0 +1,4 @@
+secret:
+  pk:
+    algorithm: AES
+    secret: secret-key-for-hiding-pk
